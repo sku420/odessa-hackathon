@@ -1,0 +1,33 @@
+﻿
+ODESSA-SMART CITY
+
+Objective 
+	• Enable Odessa as a smart city by means of technology
+
+Context 
+	•  Odessa is a busy city; its geography is a rectangular plane 
+    • A well planned city consisting Of 100 blocks on each mains and crosses. 
+    • City is well connected by lanes (Mains. Crosses); 
+    • Mains:-horizontal runs from West to East
+    • Crosses:- Verocal runs from North to South 
+      
+    • Each Block is 10 meter wide 
+	•  City people rely on door step delivery for their basic necessities 
+    • City governer has decided to land Rovers to the small businesses to make the city smart 
+      
+	Rover
+		•  Rover is small robot which can take loads (W) from source to 				destination based on instruction 
+		•  Could be used by Restaurant for delivering food to a 
+			destination 
+    • Could be used by a Grocery shop to deliver groceries 
+    • Rovers are to be Lent for nominal rate 
+        ◦ 0.50 rupee charged for every 100 meter 
+    • 0.75 rupee is charged when distance is more than 1000 meter 
+    • 0.85 rupee is charged when distance is more than 2000 meter
+		• Rover can travel for 10,000 meter on a single charge 
+
+    • Governor would like to see the income generated on rover usage 
+    • Daily basis income statement 
+    • Monthly basis income statement 
+    • For a single business daily / monthly income statement.
+
