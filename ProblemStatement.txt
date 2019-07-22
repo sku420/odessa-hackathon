@@ -16,7 +16,7 @@ Context
     • City governer has decided to land Rovers to the small businesses to make the city smart 
       
 	Rover
-		•  Rover is small robot which can take loads (W) from source to 				destination based on instruction 
+		•  Rover is small robot which can take loads (W) from source to destination based on instruction 
 		•  Could be used by Restaurant for delivering food to a 
 			destination 
     • Could be used by a Grocery shop to deliver groceries 
